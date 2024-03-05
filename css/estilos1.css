@@ -1,0 +1,99 @@
+#superprincipal
+{
+   width: 600px;
+   height: 80px;
+   background-color: rgb(0, 0, 0);
+   margin: 20px; 
+   right: 150px;
+   border-radius: 190px; 
+   display: inline-block;
+   position: sticky;
+   top: 80px;
+}
+#principal 
+{
+   width: 600px;
+   height: 600px;
+   background-color: aqua;
+   margin: 10px; 
+   right: 150px;
+   border-radius: 180px; 
+   display: inline-block;
+   position: sticky;
+}
+#uno
+{
+    width: 100px;
+    height: 110px;
+    background-color: red;
+    display: inline-block;
+    position: relative;
+    left: 250px;
+    top: 220px;
+    border-radius: 140px; 
+}
+#ojo1
+{
+    width: 100px;
+    height: 140px;
+    background-color: rgb(243, 235, 235);
+    margin: 20px;
+    display: inline-block;
+    position: fixed;
+    top: 220px;
+    right: 720px;
+    border-radius: 140px; 
+}
+#ojo2
+{
+    width: 100px;
+    height: 140px;
+    background-color: rgb(255, 255, 255);
+    margin: 20px;
+    display: inline-block;
+    position: fixed;
+    top: 220px;
+    left: 120px;
+    border-radius: 140px; 
+}
+#tres
+{
+    width: 550px;
+    height: 300px;
+    background-color: green;
+    margin: 20px;
+    display: inline-block;
+    position: sticky;
+    top: 360px;
+    border-radius: 140px; 
+}
+#tres1
+{
+    width: 350px;
+    height: 100px;
+    background-color: pink;
+    margin: auto;
+    position: relative;
+    top: 90px;
+    border-radius: 140px; 
+}
+#ojito1
+{
+    width: 30px;
+    height: 40px;
+    background-color: rgb(0, 0, 0);
+    margin: auto;
+    position: relative;
+    top: 60px;
+    border-radius: 100px; 
+}
+#ojito2
+{
+    width: 30px;
+    height: 40px;
+    background-color: rgb(10, 10, 10);
+    margin: auto;
+    position: relative;
+    top: 60px;
+    border-radius: 100px; 
+}
